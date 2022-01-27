@@ -1,0 +1,3 @@
+halo bang, nama saya Bryan
+ini resolusi saya :
+- saya ingin membuat project menggunakan framework vue
